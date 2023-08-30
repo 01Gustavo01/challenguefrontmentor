@@ -1,2 +1,2 @@
 # challenguefrontmentor
-<img src="/assets/img/arquivo.gif">
+<img src="site.png">
